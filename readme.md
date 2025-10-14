@@ -11,7 +11,7 @@ ZA delovanje sledečega boste potrebovali nameščeno zadnjo različico Docker D
 >
 >Edino bodite pozorni, da vsak Docker ukaz pričnete s **sudo**, saj deluje samo z ukazi na *root-u*. Vašega uporabnika lahko dodate kot člana skupine Docker, kar je razloženo na [Dockerdocs](https://docs.docker.com/engine/install/linux-postinstall/).
 
-## DOCKER COMPOSE
+## DOCKER COMPOSE F
 Datoteka *docker-compose.yml* ima definirane parametre za strežniško arhitekturo, PHP okolje in MySQL. Različice so večinoma najnovejše. Spremenite lahko **SAMO** ime glavne mape (v tem primeru, *predloga-projekta*). Vse ostale datoteke naj ohranijo imena, kot so zastavljena.
 
 ### ZAGON
